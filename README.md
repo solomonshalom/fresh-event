@@ -1,4 +1,4 @@
-# Global Maintainers Summit
+# Fresh Event
 
 ## 🗣️ Add new speakers
 
