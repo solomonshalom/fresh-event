@@ -18,12 +18,12 @@
         <div class="nav__brand">
           <nuxt-link to="/" class="nav__home">
             <div class="nav__home-gh--desktop">
-              <span>Global Maintainer Summit</span>
-              <span class="nav__home-hosted">hosted by GitHub</span>
+              <span>Happy Teacher's Day!</span>
+              <span class="nav__home-hosted">Designed By Solomon Lijo</span>
             </div>
             <span class="nav__home-gh--mobile">GMS</span>
           </nuxt-link>
-          <span class="nav__home-date">2021</span>
+          <span class="nav__home-date">2022</span>
         </div>
         <button
           class="nav__hamburger"
