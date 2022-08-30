@@ -42,7 +42,7 @@ describe('Default Layout', () => {
   context('in desktop Viewport', () => {
     it('is displaying the Github Brand and event name', () => {
       cy.get('[data-cy=navigation]').within(() => {
-        cy.findByText('Global Maintainer Summit').should('be.visible')
+        cy.findByText(`Teacher's Day`).should('be.visible')
         cy.findAllByText('Save the Date').first().should('be.visible')
       })
     })

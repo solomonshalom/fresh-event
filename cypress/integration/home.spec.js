@@ -28,8 +28,8 @@ describe('Home', () => {
   })
 
   it('displays the full brand info for desktop', () => {
-    cy.findByText('Global Maintainer Summit')
-    cy.findByText('hosted by GitHub')
+    cy.findByText("Happy Teacher's Day!")
+    cy.findByText('Designed By Solomon Lijo')
   })
 
   it('expands and collapses the save the date button in the top nav', () => {
