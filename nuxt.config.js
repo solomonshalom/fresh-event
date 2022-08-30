@@ -6,7 +6,7 @@ export default {
   },
   generate: {
     fallback: '404.html',
-    dir: 'public'
+    dir: 'dist'
   },
   env: {
     fathomToken: process.env.FATHOM_TOKEN || null,
