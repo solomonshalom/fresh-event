@@ -47,7 +47,7 @@
             </ul>
             <ul class="nav__only-mobile">
               <li class="nav__only-mobile-item" @click="toggleNav">
-                <CommonLink to="/">opensource@github.com </CommonLink>
+                <CommonLink to="/">solomonshalom.lijo@gmail.com </CommonLink>
               </li>
             </ul>
           </div>
