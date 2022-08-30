@@ -13,7 +13,7 @@ export default {
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Global Maintainers Summit Event 2021',
+    title: `Teacher's Day Event 2022`,
     htmlAttrs: {
       lang: 'en',
     },

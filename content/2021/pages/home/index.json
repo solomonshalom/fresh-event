@@ -46,10 +46,10 @@
   },
   "gatherTown": {
     "joinUs": "Join us at Gather",
-    "link": "https://gather.town/app/vo3JY7JsISpTYeY5/GlobalMaintainerSummit"
+    "link": "#"
   },
   "calendarEvent": {
-    "title": "Global Maintainer Summit",
-    "description": "<p>A virtual gathering for the maintainers that make open source possible</p><a href=\"https://globalmaintainersummit.github.com/\">https://globalmaintainersummit.github.com/</a>"
+    "title": "Teacher's Day 2022",
+    "description": "<p>A virtual event celebrating teachers!</p><a href=\"https://fresh-event.vercel.app/\">https://fresh-event.vercel.app/</a>"
   }
 }

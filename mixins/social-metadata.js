@@ -2,13 +2,13 @@ const socialMetadata = {
   head() {
     const title = this.metadata?.title
       ? this.metadata.title
-      : 'Global Maintainers Summit Event 2021'
+      : "Teacher's Day 2022"
     const description = this.metadata?.description
       ? this.metadata.description
-      : 'A virtual event for the maintainers that make open source possible, hosted by GitHub.'
+      : 'A virtual event celebrating teachers, hosted by 21K School.'
     const image = this.metadata?.image
       ? this.metadata.image
-      : 'https://globalmaintainersummit.github.com/social-card-past.jpg'
+      : 'https://i.imgur.com/Fnr3Fc8.png'
     const meta = [
       {
         hid: 'description',
