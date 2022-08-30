@@ -1,6 +1,6 @@
 {
   "intro": {
-    "description": "<p>The Good Company's events are community events intended for networking and collaboration in the tech community.</p><p>We value the participation of each member and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout all events hosted in the TGD space.</p><p>To make clear what is expected, all attendees, speakers, exhibitors, organizers, and volunteers at any event in the TGD space are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.</p>"
+    "description": "<p>The Good Company's events are community events intended for networking and collaboration in the open community.</p><p>We value the participation of each member and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout all events hosted in the TGD space.</p><p>To make clear what is expected, all attendees, speakers, exhibitors, organizers, and volunteers at any event in the TGD space are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.</p>"
   },
   "codeOfConduct": {
     "title": "Code of Conduct",
@@ -31,7 +31,7 @@
   },
   "reportingIncident": {
     "title": "Reporting an incident",
-    "description": "<p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the organizer by email (<a href=\"mailto:solomonshalom.lijo@gmail.com\">solomonshalom.lijo@gmail.com</a>) or phone/ text (+1 415 842 2837), or by speaking to another The Good Company employee or a security officer.</p><p>The Good Company's developers and team will be happy to help participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</p>"
+    "description": "<p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the organizer by email (<a href=\"mailto:solomonshalom.lijo@gmail.com\">solomonshalom.lijo@gmail.com</a>), or by speaking to another The Good Company employee or a security officer.</p><p>The Good Company's developers and team will be happy to help participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</p>"
   },
   "credit": {
     "title": "Credit",
