@@ -1,0 +1,34 @@
+{
+    "handler": "solomonshalom",
+    "featured": true,
+    "profile": {
+      "name": "Solomon Shalom Lijo",
+      "bio": "<p>Visionary by day. Innovator by night. Philanthropy is my creed. Founder at Takiyomi // Espresso</p><br></br><p>One more thing - God Is Good, All The Time!</p>",
+      "links": [
+        {
+          "platform": "github",
+          "url": "https://github.com/solomonshalom"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/shalomlijo"
+        }
+      ],
+      "sponsorLink": "https://takiyomi.tk"
+    },
+    "project": {
+      "name": "Espresso",
+      "description": "<p>An ultra-minimal platform for anybody who writes</p>",
+      "badge": "logo_.png",
+      "url": "https://rocketespresso.ml",
+      "links": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/rocketespresso1"
+        }
+      ],
+      "sponsorLink": ""
+    },
+    "talkTitle": ""
+  }
+  
