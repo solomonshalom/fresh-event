@@ -1,78 +1,38 @@
 {
   "slots": [
     {
-      "time": "09:00",
-      "title": "Kickoff and Keynote",
+      "time": "10:00",
+      "title": "Kickoff and Welcome!",
       "break": "short"
     },
     {
-      "title": "Contributor Relations",
-      "hasDiscussions": true,
-      "break": "short",
-      "talks": [
-        {
-          "speakerHandler": "brandonroberts"
-        },
-        {
-          "speakerHandler": "rnjudge"
-        },
-        {
-          "speakerHandler": "bwplotka"
-        }
-      ]
+      "title": "Performance By Students",
+      "hasDiscussions": false,
+      "break": "short"
     },
     {
-      "title": "Maintainer Health",
+      "title": "Interview The Teachers",
+      "time": "10:30",
+      "hasDiscussions": true,
+      "break": "long"
+    },
+    {
+      "title": "Quiz's",
+      "time": "10:40",
+      "hasDiscussions": true,
+      "break": "short"
+    },
+    {
+      "title": "Awards",
+      "time": "10:55",
+      "hasDiscussions": false
+    },
+    {
       "time": "11:00",
-      "hasDiscussions": false,
-      "break": "long",
-      "talks": [
-        {
-          "speakerHandler": "balloob"
-        },
-        {
-          "speakerHandler": "mylesborins"
-        },
-        {
-          "speakerHandler": "webchick"
-        }
-      ]
+      "title": "Closing Ceremony"
     },
     {
-      "title": "Project Health",
-      "time": "12:15",
-      "hasDiscussions": true,
-      "break": "short",
-      "talks": [
-        {
-          "speakerHandler": "helen"
-        },
-        {
-          "speakerHandler": "lorenanicole"
-        },
-        {
-          "speakerHandler": "ashleygwilliams"
-        }
-      ]
-    },
-    {
-      "title": "Measuring Success",
-      "time": "13:30",
-      "hasDiscussions": false,
-      "talks": [
-        {
-          "speakerHandler": "vertedinde"
-        },
-        {
-          "speakerHandler": "zkoppert"
-        }
-      ]
-    },
-    {
-      "time": "14:00",
-      "title": "Closing"
-    },
-    {
+      "time": "11:30",
       "title": "Hangout"
     }
   ]
