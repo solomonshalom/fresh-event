@@ -1,0 +1,30 @@
+{
+    "handler": "abhays72",
+    "featured": true,
+    "profile": {
+      "name": "Abhay Sudhir",
+      "bio": "<p>A student, speed-cuber and just a multitasker, Oh - he loves to code too! :D</p>",
+      "links": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/abhay_sudhir"
+        }
+      ],
+      "sponsorLink": "https://takiyomi.tk"
+    },
+    "project": {
+      "name": "",
+      "description": "<p></p>",
+      "badge": "logo_.png",
+      "url": "",
+      "links": [
+        {
+          "platform": "",
+          "url": ""
+        }
+      ],
+      "sponsorLink": ""
+    },
+    "talkTitle": ""
+  }
+  
