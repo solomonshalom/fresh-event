@@ -45,7 +45,7 @@
                 <CommonLink to="/schedule">Schedule</CommonLink>
               </li>
              <li class="nav__list-item" @click="toggleNav">
-                <CommonLink to="https://excitement-photobooth.netlify.app/">Excitement Wall</CommonLink>
+                <CommonLink href="https://excitement-photobooth.netlify.app/">Excitement Wall</CommonLink>
               </li>
             </ul>
             <ul class="nav__only-mobile">
